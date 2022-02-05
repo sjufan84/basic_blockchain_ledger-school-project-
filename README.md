@@ -13,10 +13,10 @@ Streamlit -- Open source framework to convert python scripts into shareable web 
 In order to test the functionality of this project, the process is very straight forward.  Simply navigate to the root directory in the command line and then type `streamlit run pychain.py`.  This will spin up the script and launch the streamlit app in your browser.  Screenshots of the Streamlit app after adding blocks to the ledger and verifying the integrity of the blockchain below --  
 
 **The ledger after adding blocks**
-!['Pychain ledger'](screenshots\ledger_screenshot.PNG)  
+!['Pychain ledger'](./screenshots/ledger_screenshot.png)  
 
 **Verifying the intergrity of the blockchain in the Streamlit app**  
-!['Verified Blockchain'](screenshots\validate_chain.PNG)  
+!['Verified Blockchain'](./screenshots/validate_chain.PNG)  
 
 **We can also inspect individual blocks and adjust the proof of work difficulty in mining the blocks**  
-!['Inspecting Blocks'](screenshots\inspect_blocks.PNG)  
+!['Inspecting Blocks'](./screenshots/inspect_blocks.PNG)  
